@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://appadaycreator.com/plant-watering-schedule/sitemap.xml
