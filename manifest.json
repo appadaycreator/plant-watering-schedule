@@ -1,8 +1,9 @@
 {
   "name": "Plant Watering Schedule",
   "short_name": "plant-wateri",
-  "start_url": "/",
+  "start_url": "/plant-watering-schedule/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#6366f1"
+  "theme_color": "#6366f1",
+  "scope": "/plant-watering-schedule/"
 }
